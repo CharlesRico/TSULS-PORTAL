@@ -107,6 +107,7 @@
     display: flex;
     max-width: 100%;
     height: auto;
+    width: 100%
 }
 .historypar {
     margin-top: 20px;
